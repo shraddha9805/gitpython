@@ -1,12 +1,12 @@
 print()
 
-print("hello world python")
+print("hello  python")
 
-print("shraddha manakr")
+print("shraddha ")
 
-print("Python 4")
+print("Python 3")
 
-print("1", "2", "3", 4)
+print("1", "8", "3", 4)
 
 print(1,2,3, sep=":")
 
