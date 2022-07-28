@@ -21,5 +21,5 @@ match area:
               breadth=int(input("enter the length:"))
               rectangle(length,breadth)    
     case 4:
-        print("please enter correct choice")       
+        print("please correct choice")       
 
